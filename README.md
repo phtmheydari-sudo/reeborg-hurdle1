@@ -1,12 +1,18 @@
 # reeborg-hurdle1 - python Solution
 
-##Describtion
+
+## Describtion
+
 This is my solution for the "Hurdle 1"
 problem in Reeborgs World.
 
-##concepts
+
+## concepts
+
 _Loops
 _Functions
 
-##Goal
+
+## Goal
+
 Improve algorithmic thinking and problem-solving skills.
